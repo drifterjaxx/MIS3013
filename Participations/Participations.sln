@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOf3", "SumOf3\SumOf3.csproj", "{E5175EB5-A006-454E-9D46-9C42D0BB5ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{74BA65F9-0200-4FA1-B319-8301427A8F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{74BA65F9-0200-4FA1-B319-8301427A8F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingLoop", "CountingLoop\CountingLoop.csproj", "{58793248-CE21-425A-977C-CC2536380E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{E4D535FE-A7B8-4A12-A29F-0C4D9010CEFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{74BA65F9-0200-4FA1-B319-8301427A8F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74BA65F9-0200-4FA1-B319-8301427A8F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74BA65F9-0200-4FA1-B319-8301427A8F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58793248-CE21-425A-977C-CC2536380E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58793248-CE21-425A-977C-CC2536380E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58793248-CE21-425A-977C-CC2536380E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58793248-CE21-425A-977C-CC2536380E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D535FE-A7B8-4A12-A29F-0C4D9010CEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D535FE-A7B8-4A12-A29F-0C4D9010CEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D535FE-A7B8-4A12-A29F-0C4D9010CEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D535FE-A7B8-4A12-A29F-0C4D9010CEFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
