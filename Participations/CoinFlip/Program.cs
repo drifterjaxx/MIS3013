@@ -23,5 +23,14 @@ else
     Console.WriteLine("You chose incorrectly.");
 }
 
+if (coin == 0)
+{
+    Console.WriteLine("The coin landed on heads.");
+}
+else
+{
+    Console.WriteLine("The coin landed on tails.");
+}
+
 const string dev = "Joseph Cartwright";
 Console.WriteLine("Developed by " + dev);
