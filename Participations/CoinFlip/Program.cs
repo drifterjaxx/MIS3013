@@ -16,7 +16,7 @@ if (choice == "heads" && coin == 0)
 }
 else if (choice == "tails" && coin == 1)
 {
-    Console.WriteLine("You chose tails.");
+    Console.WriteLine("You chose correctly!");
 }
 else
 {
